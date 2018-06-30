@@ -31,4 +31,4 @@ export const people = [
   },
 ];
 
-export const getById = id => people.find(person => person.id === id);
+export const getById = id => people.find(person => person.id === `${id}`);
