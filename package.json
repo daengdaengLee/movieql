@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/daengdaengLee/movieql#readme",
   "dependencies": {
+    "axios": "^0.18.0",
     "graphql-yoga": "^1.14.10",
     "node-fetch": "^2.1.2"
   },
